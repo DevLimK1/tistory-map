@@ -5,12 +5,16 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ### [목차]
 
-
-
-
-
-
-
+- [Git](#Git)
+- [HTML&CSS](#HTML&CSS)
+- [Linux(리눅스)](#Linux(리눅스))
+- [Servlet&JSP](#Servlet&JSP)
+- [Tools&IDE](#Tools&IDE)
+- [DB(데이터베이스)](#DB(데이터베이스))
+- [서버&네트워크](#서버&네트워크)
+- [자료구조&알고리즘](#자료구조&알고리즘)
+- [프로그래밍 언어](#프로그래밍-언어)
+- [프레임워크](#프레임워크)
 
 
 ---
@@ -93,11 +97,11 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 - DB(데이터베이스) (4)
 
-  - JDBC
+  - JDBC (1)
 
     👉 [[Oracle, JDBC\] 오라클 데이터베이스,자바 jdbc 드라이버 파일 연결하기(ojdbc.jar)](https://devlimk1.tistory.com/8?category=891299)
 
-  - MySQL
+  - MySQL (2)
 
     - 에러(ERROR)
 
@@ -105,7 +109,7 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
       👉[[MySQL_Error\] java.sql.SQLException: No value specified for parameter 1 해결방법](https://devlimk1.tistory.com/48?category=909664)
 
-  - Oracle
+  - Oracle (1)
 
     - 에러(ERROR)
 
