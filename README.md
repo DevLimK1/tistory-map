@@ -19,9 +19,11 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 24
+##### 총 포스팅 수: 25
 
-##### 최근 포스팅 : 2020-08-01 [Linux_TIL\] (Cent OS 8) VMware Workstation 15 Player 이용해서 가상 머신 생성해보기](https://devlimk1.tistory.com/134?category=916394) 
+##### 최근 포스팅 : 2020-08-04 [[네트워크_TIL\] HTTPS 동작원리에 대해 그림으로 쉽게 이해합시다!](https://devlimk1.tistory.com/135)
+
+##### 작성중 :
 
 ---
 
@@ -117,15 +119,19 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ### 서버&네트워크
 
-- 서버&네트워크 (1)
+- 서버&네트워크 (2)
 
-  - Tomcat(톰캣)
+  - Tomcat(톰캣) (1)
 
     - 에러(ERROR)
 
       👉[[Tomcat_Error] Server Tomcat v9.0 Server at localhost failed to start 에러 해결방법 2가지!](https://devlimk1.tistory.com/10?category=909676)
 
-      
+  - 네트워크 (1)
+  
+    - TIL(Today I Learned)
+  
+      👉 2020-08-04 [[네트워크_TIL\] HTTPS 동작원리에 대해 그림으로 쉽게 이해합시다!](https://devlimk1.tistory.com/135)
 
 ### 자료구조&알고리즘
 
