@@ -20,9 +20,11 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 25
+##### 총 포스팅 수: 27
 
-##### 최근 포스팅 : 200804 [[네트워크_TIL\] HTTPS 동작원리에 대해 그림으로 쉽게 이해합시다!](https://devlimk1.tistory.com/135)
+##### 최근 포스팅 : 200808 [[JAVA_TIL\] 자바(java) 메모리 사용 영역(Runtime Data Area)인 메소드(Method) 영역 , 힙(Heap) 영역 , JVM 스택(Stack) 영역에 대해 이해해보기](https://devlimk1.tistory.com/137)
+
+---
 
 ##### 작성중 : 200806 [[운영체제_TIL] (작성중) 운영체제 프로세스 스케줄링(비선점,선점)에 대해 알아보자(FIFO(FCFS),최단 작업 우선(SJF),HRN,Round Robin,SRT)](https://devlimk1.tistory.com/136 )
 
@@ -148,9 +150,13 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ### 프로그래밍 언어
 
-- Java (1)
+- Java (2)
 
   👉 [[Java\] 클래스파일을 JAR(파일 포맷)로 만들어서 다른 프로젝트 클래스에서 라이브러리로 사용하기](https://devlimk1.tistory.com/5?category=889763)
+
+  - TIL(Today I Learned)
+
+    👉 **200808** [[JAVA_TIL\] 자바(java) 메모리 사용 영역(Runtime Data Area)인 메소드(Method) 영역 , 힙(Heap) 영역 , JVM 스택(Stack) 영역에 대해 이해해보기](https://devlimk1.tistory.com/137)
 
 - Javascript (1)
 
