@@ -20,9 +20,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 27
+##### 총 포스팅 수: 28
 
-##### 최근 포스팅 : 200808 [[JAVA_TIL\] 자바(java) 메모리 사용 영역(Runtime Data Area)인 메소드(Method) 영역 , 힙(Heap) 영역 , JVM 스택(Stack) 영역에 대해 이해해보기](https://devlimk1.tistory.com/137)
+##### 최근 포스팅 : 200808 [[알고리즘_정렬] 합병(병합)알고리즘(Merge Sort) 시간복잡도가 왜 NlogN인지 그림으로 한방에 이해해보자! 이 보다 더 쉬운 설명은 없다!](https://devlimk1.tistory.com/138)
 
 ---
 
@@ -141,6 +141,10 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 - TIL(Today I Learned) (1) 
 
 ### 자료구조&알고리즘
+
+- 정렬(Sort) (1)
+
+  👉**200808** [[알고리즘_정렬] 합병(병합)알고리즘(Merge Sort) 시간복잡도가 왜 NlogN인지 그림으로 한방에 이해해보자! 이 보다 더 쉬운 설명은 없다!](https://devlimk1.tistory.com/138?category=918410)
 
 - 프로그래머스 (1)
 
