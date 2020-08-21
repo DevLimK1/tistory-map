@@ -20,9 +20,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 28
+##### 총 포스팅 수: 29
 
-##### 최근 포스팅 : 200808 [[알고리즘_정렬] 합병(병합)알고리즘(Merge Sort) 시간복잡도가 왜 NlogN인지 그림으로 한방에 이해해보자! 이 보다 더 쉬운 설명은 없다!](https://devlimk1.tistory.com/138)
+##### 최근 포스팅 : 200822 [펜잡이 개발자_[알고리즘_탐욕(greedy)]크루스칼 알고리즘(Kruskal Algorithm)의 개념과 성립조건에 대해](https://devlimk1.tistory.com/139)
 
 ---
 
@@ -145,6 +145,10 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 - 정렬(Sort) (1)
 
   👉**200808** [[알고리즘_정렬] 합병(병합)알고리즘(Merge Sort) 시간복잡도가 왜 NlogN인지 그림으로 한방에 이해해보자! 이 보다 더 쉬운 설명은 없다!](https://devlimk1.tistory.com/138?category=918410)
+
+- 탐욕(greedy)(1)
+
+  👉**200822** [펜잡이 개발자_[알고리즘_탐욕(greedy)]크루스칼 알고리즘(Kruskal Algorithm)의 개념과 성립조건에 대해](https://devlimk1.tistory.com/139)
 
 - 프로그래머스 (1)
 
