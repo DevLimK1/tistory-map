@@ -20,9 +20,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 29
+##### 총 포스팅 수: 30
 
-##### 최근 포스팅 : 200822 [펜잡이 개발자_[알고리즘_탐욕(greedy)]크루스칼 알고리즘(Kruskal Algorithm)의 개념과 성립조건에 대해](https://devlimk1.tistory.com/139)
+##### 최근 포스팅 : 200823 [펜잡이 개발자 > Spring initializr를 이용한 Spring Boot(스프링부트) 프로젝트 생성해보기(intellij community(무료) + maven)](https://devlimk1.tistory.com/143)
 
 ---
 
@@ -187,4 +187,8 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
     👉 *2020.07.26* [[Spring_TIL\] 스프링(Spring) DBconfig에 설정한 MySQL 사용자계정 정보를 application.properties 파일에 분리하여 관리하기 (@PropertySource, @Value)](https://devlimk1.tistory.com/130?category=914213)
 
     👉 *2020.07.27* [[Spring_TIL\] Spring(스프링) @RestController에서 method(메소드) 리턴타입을 Map과 DTO로 작성하기](https://devlimk1.tistory.com/131?category=914213)
+  
+- Spring Boot(스프링부트) (1)
+
+  👉 200823 [펜잡이 개발자 > Spring initializr를 이용한 Spring Boot(스프링부트) 프로젝트 생성해보기(intellij community(무료) + maven)](https://devlimk1.tistory.com/143)
 
