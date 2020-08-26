@@ -20,9 +20,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 30
+##### 총 포스팅 수: 31
 
-##### 최근 포스팅 : 200823 [펜잡이 개발자 > Spring initializr를 이용한 Spring Boot(스프링부트) 프로젝트 생성해보기(intellij community(무료) + maven)](https://devlimk1.tistory.com/143)
+##### 최근 포스팅 : 200826 [펜잡이 개발자>알고리즘_DFS\]프로그래머스 "타겟 넘버" 문제 풀이](https://devlimk1.tistory.com/144)
 
 ---
 
@@ -141,6 +141,10 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 - TIL(Today I Learned) (1) 
 
 ### 자료구조&알고리즘
+
+- 깊이,너비 탐색(DFS,BFS) (1)
+
+  👉**200826** [펜잡이 개발자>알고리즘_DFS\]프로그래머스 "타겟 넘버" 문제 풀이](https://devlimk1.tistory.com/144)
 
 - 정렬(Sort) (1)
 
