@@ -20,9 +20,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 32
+##### 총 포스팅 수: 33
 
-##### 최근 포스팅 : 200827 [펜잡이 개발자>알고리즘_탐욕(greedy)\]프로그래머스 "구명보트" 문제 풀이](https://devlimk1.tistory.com/145)
+##### 최근 포스팅 : 200901 [펜잡이 개발자🖍[Git_Error] ![rejected] non-fast-forward ,error: failed to push some refs to 에러 해결 방법!!](https://devlimk1.tistory.com/147)
 
 ---
 
@@ -34,13 +34,15 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ### Git
 
-- Git (2)
+- Git (3)
 
   👉 [[Git] git bash에서 명령어(git revert)로 폴더에서 삭제된 파일들 원본으로 복구하기](https://devlimk1.tistory.com/124?category=911978) 
 
-  - Git_Error
+  - Git_Error 
 
     👉 [[Git_Error] remote: HTTP Basic: Access denied and fatal Authentication 에러를 해결해보자!](https://devlimk1.tistory.com/125?category=913784)
+    
+    👉 **200901** [펜잡이 개발자🖍[Git_Error] ![rejected] non-fast-forward ,error: failed to push some refs to 에러 해결 방법!!](https://devlimk1.tistory.com/147)
 
 ### HTML&CSS
 
