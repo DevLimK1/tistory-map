@@ -20,9 +20,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 33
+##### 총 포스팅 수: 34
 
-##### 최근 포스팅 : 200901 [펜잡이 개발자🖍[Git_Error] ![rejected] non-fast-forward ,error: failed to push some refs to 에러 해결 방법!!](https://devlimk1.tistory.com/147)
+##### 최근 포스팅 : 200902 [펜잡이 개발자🖍Spring\] Lombok을 사용해서 Bean을 추가해보자!](https://devlimk1.tistory.com/148)
 
 ---
 
@@ -182,7 +182,7 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ### 프레임워크
 
-- Spring(스프링) (5)
+- Spring(스프링) (6)
 
   - TIL(Today I Learned)
 
@@ -195,6 +195,8 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
     👉 *2020.07.26* [[Spring_TIL\] 스프링(Spring) DBconfig에 설정한 MySQL 사용자계정 정보를 application.properties 파일에 분리하여 관리하기 (@PropertySource, @Value)](https://devlimk1.tistory.com/130?category=914213)
 
     👉 *2020.07.27* [[Spring_TIL\] Spring(스프링) @RestController에서 method(메소드) 리턴타입을 Map과 DTO로 작성하기](https://devlimk1.tistory.com/131?category=914213)
+    
+    👉 **200902** [펜잡이 개발자🖍Spring\] Lombok을 사용해서 Bean을 추가해보자!](https://devlimk1.tistory.com/148)
   
 - Spring Boot(스프링부트) (1)
 
