@@ -20,9 +20,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 34
+##### 총 포스팅 수: 35
 
-##### 최근 포스팅 : 200902 [펜잡이 개발자🖍Spring\] Lombok을 사용해서 Bean을 추가해보자!](https://devlimk1.tistory.com/148)
+##### 최근 포스팅 : 200908 [펜잡이 개발자🖊[Spring Boot_Error]Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. 에러 해결 방법!](https://devlimk1.tistory.com/149)
 
 ---
 
@@ -198,7 +198,9 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
     
     👉 **200902** [펜잡이 개발자🖍Spring\] Lombok을 사용해서 Bean을 추가해보자!](https://devlimk1.tistory.com/148)
   
-- Spring Boot(스프링부트) (1)
+- Spring Boot(스프링부트) (2)
 
-  👉 200823 [펜잡이 개발자 > Spring initializr를 이용한 Spring Boot(스프링부트) 프로젝트 생성해보기(intellij community(무료) + maven)](https://devlimk1.tistory.com/143)
+  👉 **200823** [펜잡이 개발자 > Spring initializr를 이용한 Spring Boot(스프링부트) 프로젝트 생성해보기(intellij community(무료) + maven)](https://devlimk1.tistory.com/143)
+  
+  👉**200908** [펜잡이 개발자🖊[Spring Boot_Error]Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. 에러 해결 방법!](https://devlimk1.tistory.com/149)
 
