@@ -9,6 +9,7 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 - [HTML&CSS](#HTML&CSS)
 - [Linux(리눅스)](#Linux(리눅스))
 - [Servlet&JSP](#Servlet&JSP)
+- [Tomcat](#Tomcat)
 - [Tools&IDE](#Tools&IDE)
 - [DB(데이터베이스)](#DB(데이터베이스))
 - [서버&네트워크](#서버&네트워크)
@@ -20,13 +21,13 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
 
 ---
 
-##### 총 포스팅 수: 35
+##### 총 포스팅 수: 37
 
-##### 최근 포스팅 : 200908 [펜잡이 개발자🖊[Spring Boot_Error]Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. 에러 해결 방법!](https://devlimk1.tistory.com/149)
+##### 최근 포스팅 : 200910 [[Tomcat_Error\]30초 안에 해결하는 'Starting Tomcat v8.5 Sever at localhost' has encountered a problem.Port 8080 required by Tomcat v8.0 Server at localhost is already in use. 에러 해결 방법!! by 펜잡이 개발자🖍](https://devlimk1.tistory.com/151?category=909676)
 
 ---
 
-##### 작성중 : 200806 [[운영체제_TIL] (작성중) 운영체제 프로세스 스케줄링(비선점,선점)에 대해 알아보자(FIFO(FCFS),최단 작업 우선(SJF),HRN,Round Robin,SRT)](https://devlimk1.tistory.com/136 )
+##### 작성중 : 
 
 ---
 
@@ -81,6 +82,14 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
     - 에러(ERROR)
 
       👉 [[Servlet_Error\] Servlet 한글이 깨질 때! 이상하고 괴상한 문자가 보일 때 해결방법!](https://devlimk1.tistory.com/32?category=909661)
+
+### Tomcat
+
+- 에러(ERROR)
+
+  👉 ***200423*** [[Tomcat_Error\] Server Tomcat v9.0 Server at localhost failed to start 에러 해결방법 2가지!](https://devlimk1.tistory.com/10?category=909676) 
+
+  👉 **200910** [[Tomcat_Error\]30초 안에 해결하는 'Starting Tomcat v8.5 Sever at localhost' has encountered a problem.Port 8080 required by Tomcat v8.0 Server at localhost is already in use. 에러 해결 방법!! by 펜잡이 개발자🖍](https://devlimk1.tistory.com/151?category=909676)
 
 ### Tools&IDE
 
@@ -198,9 +207,11 @@ tistory에 블로그 포스팅한 것들을 보기 쉽게 표현
     
     👉 **200902** [펜잡이 개발자🖍Spring\] Lombok을 사용해서 Bean을 추가해보자!](https://devlimk1.tistory.com/148)
   
-- Spring Boot(스프링부트) (2)
+- Spring Boot(스프링부트) (3)
 
   👉 **200823** [펜잡이 개발자 > Spring initializr를 이용한 Spring Boot(스프링부트) 프로젝트 생성해보기(intellij community(무료) + maven)](https://devlimk1.tistory.com/143)
   
   👉**200908** [펜잡이 개발자🖊[Spring Boot_Error]Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. 에러 해결 방법!](https://devlimk1.tistory.com/149)
+  
+  👉 **200909** [펜잡이 개발자🖍[SpringBoot_Error] properties 파일 한글 깨짐 현상(유니코드) 해결 방법!](https://devlimk1.tistory.com/150)
 
